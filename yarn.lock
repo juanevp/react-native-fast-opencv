@@ -11116,7 +11116,7 @@ __metadata:
     react-native-image-picker: "npm:^7.1.2"
     react-native-reanimated: "npm:^3.14.0"
     react-native-safe-area-context: "npm:^4.11.0"
-    react-native-screens: "npm:^3.34.0"
+    react-native-screens: "npm:3.32.0"
     react-native-vision-camera: "npm:4.6.3"
     react-native-worklets-core: "npm:1.5.0"
     vision-camera-resize-plugin: "npm:3.2.0"
@@ -11197,16 +11197,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-screens@npm:^3.34.0":
-  version: 3.35.0
-  resolution: "react-native-screens@npm:3.35.0"
+"react-native-screens@npm:3.32.0":
+  version: 3.32.0
+  resolution: "react-native-screens@npm:3.32.0"
   dependencies:
     react-freeze: "npm:^1.0.0"
     warn-once: "npm:^0.1.0"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 10/18085fb68bb2349330cb9b536f79161474788bc478b4b13e23de26d80b68000c60c0b79ba19d430ed0693350c062863f0620da6397d3bd24da08c09181c0fcfd
+  checksum: 10/22f27b2082e0c8d70165c8a26dcf55b4da2a18166d4b9a0b434f558edea57d71458800d5086940fe7cabe8b7e28c8614cf227f35152171d08583f4ef6f6f3a35
   languageName: node
   linkType: hard
 
